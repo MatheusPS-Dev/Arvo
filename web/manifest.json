@@ -1,11 +1,11 @@
 {
-    "name": "arvo_app",
-    "short_name": "arvo_app",
+    "name": "Arvô - Gestão Inteligente de Insumos Agrícolas",
+    "short_name": "Arvô",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#F4F8F4",
+    "theme_color": "#0F3D33",
+    "description": "Gestão Inteligente de Insumos Agrícolas.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
