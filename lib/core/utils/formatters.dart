@@ -29,6 +29,8 @@ class Formatters {
     return formatCurrency(value);
   }
 
+  static String formatCompactCurrency(double value) => formatCurrencyCompact(value);
+
   /// Formata número decimal ou inteiro (ex: 1.240)
   static String formatNumber(num value, {int decimalDigits = 0}) {
     if (decimalDigits > 0) {

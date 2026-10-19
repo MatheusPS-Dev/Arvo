@@ -65,10 +65,14 @@ flutter:
   # Assets
   assets:
     - assets/icons/
+    - assets/logos/icone/PNG/
+    - assets/logos/icone/SVG/
     - assets/logos/letreiro/PNG/
     - assets/logos/letreiro/SVG/
     - assets/logos/simbolo/PNG/
     - assets/logos/simbolo/SVG/
+    - assets/logos/simbolo-pequeno/PNG/
+    - assets/logos/simbolo-pequeno/SVG/
 
   # Fonts
   fonts:
